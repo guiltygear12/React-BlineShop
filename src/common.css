@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LINESeedKR-Bd';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    font-family: "LINESeedKR-Bd";
+    background-color: #06C755;
+    padding: 24px;
+}
+.logo> h1{
+    margin: 0;
+    color: #FCFCFC;
+}
